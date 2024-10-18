@@ -252,7 +252,7 @@ coroutine.wrap(pcall)(function()
         end
         if _G.SendNotifications then
             StarterGui:SetCore("SendNotification", {
-                Title = "discord.gg/rips",
+                Title = "FPS Booster",
                 Text = "No Shadows Enabled",
                 Duration = 5,
                 Button1 = "Okay"
