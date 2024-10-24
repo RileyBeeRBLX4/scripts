@@ -1,0 +1,5 @@
+Welcome To Remote Spy V3 (Known As SimpleSpy)
+You can make your own scripts by using Remote Spy V3
+THIS IS A PC VERSION!
+If Your On Mobile Use Remote Spy V3 Mobile
+Script: loadstring(game:HttpGet("https://raw.githubusercontent.com/RileyBeeRBLX4/scripts/refs/heads/main/RemoteSpyForMobile.lua"))();
